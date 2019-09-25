@@ -1,9 +1,7 @@
 # qns3vm
 Quasi-Newton Semi-Supervised Support Vector Machines
 
-Ported from original code
-
-Works with python 3.7
+Ported from original code. Works with python 3.7
 
 
 The following warning are ignored:
